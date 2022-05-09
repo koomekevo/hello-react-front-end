@@ -29,7 +29,9 @@ Run `npm install` to install dependencies on your computer.
 
 Run `npm start` to start the application
 
-Ensure that the Rails API is ready to serve the frontend by visiting https://github.com/koomekevo/hello-rails-back-end and follow the instructions to start the backend application. 
+Ensure that the Rails API is ready to serve the frontend by visiting https://github.com/koomekevo/hello-rails-back-end and follow the instructions to start the backend application which will run on `http://localhost:3000`.
+
+Navigate to `http://localhost:3001/greetings` to load the greetings page.
 
 ## Authors
 
